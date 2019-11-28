@@ -1,0 +1,29 @@
+Zadanie 1.
+
+Należy stworzyć skrypt PHP, który pobiera za pomocą metody GET parametr 'ilosc'
+
+Przykład: /index.php?ilosc=20
+
+Narysować za pomocą gwiazdek (shift + 8) trójkąt. Od jednej gwiazdki do tylu ile wynosci paramter 'ilosc', w tym przypadku 20.
+
+Przykładowy trójkąt:
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+[w tym pliku textowym dałem spacje miedzy gwiazdkami, bo inaczej kiepsko to wygladało. W rozwiązaniu nie powinno byc spacji!]
+
+Trójkąt powinien być na środku strony (według szerokości). Najlepiej wycentrować elementy za pomocą styli CSS.
+Każdy kolejny wiersz trójkąta zawiera liczbę gwiadek większą o 1 niż poprzedni.
+Każdy wiersz powinien posiadać inny kolor textu!.
+
+Kilka przykładów jak uzyskać losowy kolor:
+
+https://css-tricks.com/snippets/php/random-hex-color/
+http://stackoverflow.com/questions/5614530/generating-a-random-hex-color-code-with-php
+
+
+
